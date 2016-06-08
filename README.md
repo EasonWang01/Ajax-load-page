@@ -97,3 +97,4 @@ changeScreen = function(url){
 	}
 }
 ```
+##如果點選F5或重新整理後顯示無法get路徑，到你的server新增url即可`app.get('test1')`
