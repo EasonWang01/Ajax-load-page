@@ -2,9 +2,9 @@
 Ajax for SPA 
 
 
-Usage
+##Usage
 
-when button click load a html page. 
+when button clicked, loading a html page. 
 ```
 document.getElementById('testSend').addEventListener('click',function(){
 
